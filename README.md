@@ -32,5 +32,13 @@ Extraire des insights utiles sur le chiffre d’affaires, les produits, les bran
 
 ---
 
-## 📂 Arborescence prévue
+## 📂 Arborescence prévue 
+
+supermarket-sales-analysis/
+│
+├── README.md
+├── data/
+│   └── supermarket_sales.csv
+├── analysis.ipynb
+└── requirements.txt
 
