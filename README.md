@@ -6,9 +6,12 @@ Projet personnel de Data Science — Analyse exploratoire de données de ventes 
 
 ## 🎯 Objectif
 
-Analyser les ventes d’un supermarché à partir d’un jeu de données public.  
-Extraire des insights utiles sur le chiffre d’affaires, les produits, les branches, les méthodes de paiement, les profils clients, etc.
-
+Analyser les ventes d’un supermarché à partir d’un jeu de données public pour :  
+- Identifier les tendances et comportements d’achat  
+- Comprendre la répartition des ventes par produit, branche, ville et heure  
+- Détecter les profils clients et leurs habitudes  
+- Extraire des insights exploitables pour améliorer la gestion et le chiffre d’affaires
+  
 ---
 
 ## 📊 Données
