@@ -86,11 +86,11 @@ supermarket-sales-analysis/
 ### Dépenses moyennes par catégorie
 ![Catégories](images/sales_by_category.png)
 
+### Heatmap ventes jour/heure
+![Ventes par jour](images/sales_by_day.png)
+
 ### Ventes par heure
 ![Ventes par heure](images/sales_by_hour.png)
-
-### Heatmap ventes jour/heure
-![Heatmap ventes](images/sales_heatmap.png)
 
 ---
 
