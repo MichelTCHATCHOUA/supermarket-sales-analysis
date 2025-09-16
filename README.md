@@ -106,3 +106,4 @@ supermarket-sales-analysis/
 1. Cloner le repo :  
 ```bash
 git clone https://github.com/MichelTCHATCHOUA/supermarket-sales-analysis.git
+pip install -r requirements.txt
