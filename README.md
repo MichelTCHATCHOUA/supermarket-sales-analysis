@@ -42,13 +42,12 @@ supermarket-sales-analysis/
 ├── README.md # Ce fichier
 ├── data/
 │ └── supermarket_sales.csv # Dataset brut
-├── notebooks/
-│ └── SuperMarketAnalysis.ipynb # Notebook complet avec analyses
-├── scripts/
-│ └── analyse.py # Script Python simple
+├── SuperMarketAnalysis.ipynb # Notebook complet avec analyses
+├── analyse.py # Script Python simple
 ├── images/ # Graphiques exportés pour README
 │ ├── sales_by_city.png
 │ ├── sales_by_category.png
+│ ├── sales_by_day.png
 │ └── sales_by_hour.png
 └── requirements.txt # Librairies nécessaires
 
