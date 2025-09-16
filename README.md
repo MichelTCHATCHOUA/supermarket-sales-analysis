@@ -52,3 +52,57 @@ supermarket-sales-analysis/
 │ └── sales_by_hour.png
 └── requirements.txt # Librairies nécessaires
 
+
+
+---
+
+## 🔎 Analyses réalisées
+1. **Statistiques descriptives**  
+   - Aperçu des données, types, valeurs manquantes  
+   - Moyenne, min, max, quantiles  
+
+2. **Répartition des ventes**  
+   - Par ville  
+   - Par produit / catégorie  
+   - Par branche  
+
+3. **Analyse temporelle**  
+   - Ventes par jour  
+   - Ventes par heure  
+   - Heatmap : ventes par jour de la semaine et heure  
+
+4. **Analyse client**  
+   - Par genre  
+   - Par mode de paiement  
+   - Score moyen des évaluations  
+
+---
+
+## 📊 Exemples de visualisations
+
+### Ventes par ville
+![Ventes par ville](images/sales_by_city.png)
+
+### Dépenses moyennes par catégorie
+![Catégories](images/sales_by_category.png)
+
+### Ventes par heure
+![Ventes par heure](images/sales_by_hour.png)
+
+### Heatmap ventes jour/heure
+![Heatmap ventes](images/sales_heatmap.png)
+
+---
+
+## 🚀 Résultats clés
+- Certaines villes génèrent significativement plus de ventes  
+- Les catégories de produits ne contribuent pas de manière égale au chiffre d’affaires  
+- Les ventes ont des pics en fin d’après-midi  
+- Différences observables selon le genre et le type de paiement  
+
+---
+
+## 💻 Instructions pour reproduire l’analyse
+1. Cloner le repo :  
+```bash
+git clone https://github.com/MichelTCHATCHOUA/supermarket-sales-analysis.git
